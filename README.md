@@ -72,7 +72,3 @@ This Jupyter Notebook is provided for educational purposes and self-paced learni
 ## Contributing
 
 Contributions to this notebook are welcome! If you have improvements, corrections, or additional content to add, please open an issue or submit a pull request.
-
-## License
-
-This project is licensed under the [Specify License] - see the [LICENSE](LICENSE) file for details.
